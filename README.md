@@ -1,5 +1,8 @@
 # Input Leap
 
+> **Two-laptop setup:** see [`my-setup/README.md`](my-setup/README.md) for a step-by-step guide,
+> a ready-made config and start scripts for sharing one keyboard and mouse across two laptops.
+
 <!-- add badges: flatpak, snap, GitHub Actions -->
 
 ### Contact info:
